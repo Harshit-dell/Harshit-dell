@@ -21,4 +21,4 @@ I'm a passionate backend developer who loves working close to the system. I enjo
 
 📫 Reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-kumar-sahu-771186307/)  
-[GitHub Issues](https://github.com/HarshitSahu)
+[GitHub Issues](https://github.com/Harshit-dell)
